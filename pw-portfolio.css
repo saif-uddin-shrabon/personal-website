@@ -14,7 +14,8 @@ h1{
 }
 .ln29colour{
     color: rosybrown;
-    line-height: 2.0;
+    margin: 0;
+    padding: 0;
 }
 .ln20indent{
    text-indent: 70px;
