@@ -81,6 +81,12 @@ div{
 div.a{
     text-align: center;
 }
+.delta{
+    color: rgb(131, 131, 131);
+}
+.address{
+    color: rgb(42, 54, 58);
+}
 .pro-colour{
     color: rgb(117, 114, 114);
 }
