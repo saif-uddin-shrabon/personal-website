@@ -3,6 +3,22 @@ body{
     font-family: 'Raleway', sans-serif;
     font-family: 'Recursive', sans-serif;
 }
+.top-banner{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+.my-journey{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
 h1{
     font-size: 50px;
 }
@@ -17,6 +33,9 @@ h1{
     margin: 0;
     padding: 0;
 }
+.ls{
+    color: tomato;
+}
 .ln20indent{
    text-indent: 70px;
 }
@@ -30,8 +49,26 @@ h1{
     margin-left: 5%;
     padding-left: 2%;
 }
+.half-width img{
+    width: 100%;
+}
+
+.one-third{
+    width: 25%;
+    float: left ;
+    margin-left: 5% ;
+    padding-left: 1%;
+}
+.one-third img{
+    width: 100%;
+}
 div{
     margin-top: 40px;
+}
+.box-design{
+    box-shadow: 10px 10px 50px rgb(218, 218, 218);
+    border-radius: 5px;
+    height: 80% ;
 }
 
 .link_button{
@@ -41,4 +78,9 @@ div{
     color: white;
     float:  bold;
 }
-
+div.a{
+    text-align: center;
+}
+.pro-colour{
+    color: rgb(117, 114, 114);
+}
