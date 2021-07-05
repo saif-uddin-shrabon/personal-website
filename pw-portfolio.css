@@ -71,6 +71,7 @@ div{
     height: 80% ;
 }
 
+
 .link_button{
     text-decoration: none;
     background-image: linear-gradient(45deg, lightSalmon, tomato);
@@ -89,4 +90,22 @@ div.a{
 }
 .pro-colour{
     color: rgb(117, 114, 114);
+}
+.navbar{
+    padding: 1% 7%;
+    text-align: right;
+}
+.navbar a{
+    color:rgb(117, 114, 114);
+    text-decoration: none ;
+    font-size: 1.2rem ;
+    padding: 10px 20px ;
+    cursor: pointer;
+}
+.container{
+    position: relative;
+    width: 1200px;
+    height: 300px;
+    margin: 240px auto;
+    background:  rgb(60, 83, 214) ;
 }
