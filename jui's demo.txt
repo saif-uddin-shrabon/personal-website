@@ -1,0 +1,43 @@
+<section class="diet">
+        <div class="half-width">
+            <img src="images/food/Project Cover6.png">
+        </div>
+        <div class="half-width">
+            <h1>OFFER</h1>
+            <p>
+                20% discount for take away.Order now
+            </p>
+            <p>Click here to order</p>
+            <a class="link-button" href="">Order now</a>
+        </div>
+    </section>
+    <section class="down">
+        <div class="header">
+            <h3>Some Recipes</h3>
+            <P>Enjoy your favourite food with food lovers.We will try our best fulfil your desire.</P>
+        </div>
+        <div class="card box-design">
+            <img src="images/food/Project Cover.png" alt="" style="width:50%">
+            <h3>Thai Soup</h3>
+            <p>This has to be our all time favorite dish! Reminiscing old memories with Thai
+                Soup. Enjoy this hot and delicious soup alongside hot crispy wontons.</p>
+        </div>
+        <div class="card box-design">
+            <img src="images/food/Project Cover5.png" alt="" style="width:50%">
+            <h3>Italian Salad</h3>
+            <p>Salad is a natural source of fiber.It has lot of antioxidants.It's part of healthy diet.We provide you
+                the best salad.So enjoy your salad.</p>
+        </div>
+        <div class="card box-design">
+            <img src="images/food/Project Cover1.jpg" alt="" style="width:50%">
+            <h3>Beef</h3>
+            <p>It's quick and easy for samily dinner or a special occasion.There are different kinds of beef you will
+                find here, choose your desire one.Enjoy your food </p>
+        </div>
+    </section>
+    <div style="color: rebeccapurple;">
+        <h3>FOOD LOVERS</h3>
+        <footer style="color: black;">
+            COPYRIGHT © 2021
+        </footer>
+    </div>

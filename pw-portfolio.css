@@ -43,6 +43,7 @@ h1{
     text-indent: 30px;
 }
 
+
 .half-width{
     width: 40%;
     float: left;
@@ -74,13 +75,25 @@ div{
 
 .link_button{
     text-decoration: none;
-    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    background-image: linear-gradient( 90deg , lightSalmon, tomato);
     padding: 10px 10px;
+    border-radius: 10px;
     color: white;
+    margin-right: 5px;
     float:  bold;
 }
+
 div.a{
     text-align: center;
+}
+.text-a{
+    tab-size: 2;
+    font-size: 20px;
+}
+div.b{
+    text-align: center;
+
+    
 }
 .delta{
     color: rgb(131, 131, 131);
@@ -105,7 +118,8 @@ div.a{
 .container{
     position: relative;
     width: 1200px;
-    height: 300px;
+    height: 200px;
     margin: 240px auto;
+    border-radius: 10px;
     background:  rgb(60, 83, 214) ;
 }
